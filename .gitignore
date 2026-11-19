@@ -1,0 +1,18 @@
+# бинарник
+/loganalyzer
+
+# отчёты покрытия
+coverage.out
+coverage.html
+
+# примеры отчётов (генерируются при запуске)
+report.json
+report.csv
+
+# тестовые бинарники
+*.test
+
+# IDE
+.idea/
+.vscode/
+*.swp
